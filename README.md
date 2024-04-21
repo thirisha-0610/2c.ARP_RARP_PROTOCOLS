@@ -39,7 +39,7 @@ while True:
 
 ## Server 
 
-~import socket
+```import socket
 s=socket.socket()
 s.connect(('localhost',80))
 while True:
